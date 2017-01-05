@@ -1,5 +1,5 @@
 # Mailinator-Domains
-This repository is beeing generated daily based on the data of www.block-disposable-email.com.
+This repository is beeing generated based on the data of www.block-disposable-email.com. Updates committed on a daily basis as long as additions appear.
 
 ## What you get
 The data you can download here is a list of domains in sha1 format (lowecase hashed). 
@@ -10,7 +10,7 @@ The intention of this file is to let you check your userbase or new subscribers 
 
 What we provide here is a specific subset of our comprehensive blacklist which contains domains only that are hosted by mailinator.com. In addition the set of data includes domains added at least 60 days ago. However, we suppose it is the most accurate data you can find for free anyway.
 
-# Upgrades
+## Upgrades
 If you are looking for more up-to-data dea domains please take our api into consideration or use one of the existing modules for standard software (such as Wordpress, phpBB, Java, ...) . It includes hundreds of alternative domains of well-known temporary email provider such as Yopmail, discard.email, mytemp.email, 10minutemail, generator.email as well as widely unrecognised services. 
 
 Feedback, suggestions, ... appreciated.
