@@ -1,8 +1,8 @@
 # Mailinator-Domains
-This repository is beeing generated based on the data of www.block-disposable-email.com. Updates committed on a daily basis as long as additions appear.
+This repository is being generated based on the data of www.block-disposable-email.com. Updates committed on a daily basis as long as additions appear.
 
 ## What you get
-The data you can download here is a list of domains in sha1 format (lowecase hashed). 
+The data you can download at https://github.com/GeroldSetz/Mailinator-Domains/blob/master/mailinator_domains_from_bdea.cc.txt is a list of domains in sha1 format (lowercase hashed). 
 Example: "mailinator.com" will be represented as "f65f8e182b0ecc8a1ec02aff22b2c26fabdb954b". 
 
 ## Intention
