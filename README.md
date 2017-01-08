@@ -8,7 +8,7 @@ Example: "mailinator.com" will be represented as "f65f8e182b0ecc8a1ec02aff22b2c2
 ## Intention
 The intention of this file is to let you check your userbase or new subscribers against this managed blacklist to detect fake subscribers. We have chosen not to disclose plain text domain names as they might be used for fraud attempts - which runs contrary to our ideas. As mentioned the data comes from our main project www.block-disposable-email.com, which already serves thousands of clients.
 
-What we provide here is a specific subset of our comprehensive blacklist which contains domains only that are hosted by mailinator.com. The set of data includes domains added at least 60 days ago. However, we suppose it is the most accurate data you can find for free anyway. 
+What we provide here is a specific subset of our comprehensive blacklist which contains domains only that are hosted by mailinator.com. The set of data includes domains added at least 30 days ago. However, we suppose it is the most accurate data you can find for free anyway. 
 In case the community finds the data useful I'll publish domains of other main-providers in the same way.
 
 ## Upgrades
