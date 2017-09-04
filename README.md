@@ -14,3 +14,5 @@ What we provide here is a specific subset of our comprehensive blacklist which c
 If you are looking for more up-to-data dea domains please take our api into consideration or use one of the existing modules for standard software (such as Wordpress, phpBB, Java, ...) . It includes hundreds of alternative domains of well-known temporary email provider such as Yopmail, discard.email, mytemp.email, 10minutemail, generator.email as well as widely unrecognised services. 
 
 Feedback, suggestions, ... appreciated.
+
+PS: Do you know of list of emailondeck.com domains? See https://github.com/GeroldSetz/emailondeck.com-domains
